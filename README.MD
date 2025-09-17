@@ -18,8 +18,8 @@ Implementar un sistema simple de **gestión de pedidos** en serverless:
 
 ## 🛠️ Requisitos
 
-- **AWS CLI** configurado (`aws configure`)
-- 
+- Tener instalada la **AWS CLI** 
+- Tener configurado los credenciales de la cuenta de AWS
 - **Terraform ≥ 1.6** (se recomienda [terraform-bin en AUR](https://aur.archlinux.org/packages/terraform-bin) o tfenv)  
 - Permisos en AWS para crear: Lambda, IAM Roles/Policies, DynamoDB, CloudWatch Logs  
 
